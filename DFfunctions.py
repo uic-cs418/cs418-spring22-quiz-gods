@@ -15,15 +15,14 @@ def avgDf(df):
     RaceCounter = {}
     for row in df.iterrows():
         (index, loc) = row
+        if loc['Race/Ethnicity'] in RaceCounter:
+            (currSum, currDeath) = RaceCounter[loc['Race/Ethnicity']]
+            currSum = currSum + 1
+            currDeath = currDeath + loc['Deaths per 100,000']
 
-    if loc['Race/Ethnicity'] in RaceCounter:
-        (currSum, currDeath) = RaceCounter[loc['Race/Ethnicity']]
-        currSum = currSum + 1
-        currDeath = currDeath + loc['Deaths per 100,000']
-
-        RaceCounter[loc['Race/Ethnicity']] = (currSum, currDeath)
-    else:
-        RaceCounter[loc['Race/Ethnicity']] = (1, loc['Deaths per 100,000'])
+            RaceCounter[loc['Race/Ethnicity']] = (currSum, currDeath)
+        else:
+            RaceCounter[loc['Race/Ethnicity']] = (1, loc['Deaths per 100,000'])
 
     avgRace = {}
     for key in RaceCounter:
