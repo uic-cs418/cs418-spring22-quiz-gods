@@ -37,9 +37,20 @@ def avgDf(df):
         tempList.append(avgRace[key])
         output.append(tempList)
 
-    avgDf = pd.DataFrame(output, columns=['Race', 'Average Number of Deaths'])
+    avgD = pd.DataFrame(output, columns=['Race', 'Average Number of Deaths'])
     
     fig = plt.gcf()
     fig.set_size_inches(15, 5)
-    plot = sns.barplot(x='Race', y='Average Number of Deaths', data=Df)
+    plot = sns.barplot(x='Race', y='Average Number of Deaths', data=avgD)
     plt.title("Average Numbers of Death per Race")
+
+def removeC(tempDf, NotUsed):
+    
+    useCols = []
+    data = {}
+    for col in tempDf.columns:
+        if col not in NotUsed:
+            data[col] = tempDf[col]
+
+    newDf = pd.DataFrame(data) 
+    return newDf
