@@ -1,17 +1,19 @@
-import seaborn as sns
+import pandas as pd
+import numpy as np
+import string
+import seaborn as sns 
 import matplotlib.pyplot as plt
 
-
-def plot(avgDf):
+def plotted(Df):
     fig = plt.gcf()
     fig.set_size_inches(15, 5)
-    plot = sns.barplot(x='Race', y='Average Number of Deaths', data=avgDf)
+    plot = sns.barplot(x='Race', y='Average Number of Deaths', data=Df)
     plt.title("Average Numbers of Death per Race")
 
 
-def dataFrameReturn(dataframe):
+def avgDf(df):
     RaceCounter = {}
-    for row in dataframe.iterrows():
+    for row in df.iterrows():
         (index, loc) = row
 
     if loc['Race/Ethnicity'] in RaceCounter:
@@ -37,4 +39,8 @@ def dataFrameReturn(dataframe):
         output.append(tempList)
 
     avgDf = pd.DataFrame(output, columns=['Race', 'Average Number of Deaths'])
-    return avgDf
+    
+    fig = plt.gcf()
+    fig.set_size_inches(15, 5)
+    plot = sns.barplot(x='Race', y='Average Number of Deaths', data=Df)
+    plt.title("Average Numbers of Death per Race")
