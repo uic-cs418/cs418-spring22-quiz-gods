@@ -54,3 +54,11 @@ def removeC(tempDf, NotUsed):
 
     newDf = pd.DataFrame(data) 
     return newDf
+
+def getSufficientData(df):
+    df = df[df['Sufficiency?'] != 'Insufficient Data']
+    df = df[df['Race/Ethnicity'] != 'Overall']
+    df = df[df['Gender'] != 'Female']
+    df = df[df['Gender'] != 'Male']
+    newDf = df
+    return newDf
