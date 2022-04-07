@@ -5,6 +5,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 def plotted(Df):
+    sns.set_theme(style="whitegrid")
     fig = plt.gcf()
     fig.set_size_inches(15, 5)
     plot = sns.barplot(x='Race', y='Average Number of Deaths', data=Df)
@@ -39,6 +40,7 @@ def avgDf(df):
 
     avgD = pd.DataFrame(output, columns=['Race', 'Average Number of Deaths'])
     
+    sns.set_theme(style="whitegrid")
     fig = plt.gcf()
     fig.set_size_inches(15, 5)
     plot = sns.barplot(x='Race', y='Average Number of Deaths', data=avgD)
