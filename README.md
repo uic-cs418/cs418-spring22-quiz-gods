@@ -1,10 +1,7 @@
-Legend
+Our analysis code can be located in the AnovaStatusReport.html file, which is a pre-run version of the AnovaTestCode.R.
+This means that the outputs by AnovaTestCode.R can be viewed through the html file, and there is nothing you have to do with the AnovaTestCode.R file.
 
-Covid Dataset
-W - White
-B/AA - Black or African American
-AI/AN - American Indian or Alaska Native
-A - Asian
-NH/OPI - Native Hawaiian or Other Pacific Islander
-MultipleRaces - More than one Race
-H/L - Hispanic or Latino
+Our initial analysis and reflection questions can be found in the clean.ipynb file and our function we used inside of the clean.ipynb file can be found
+inside of DFfunctions.py
+
+We have four sets of data, heart and stroke initial data. Our "updated" csv files are our two final cleaned datasets.
