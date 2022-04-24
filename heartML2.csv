@@ -1,0 +1,246 @@
+State,Race,Sum of Deaths per 10000 by Race,Output
+AK,American Indian and Alaskan Native,7237.5,0
+AK,Asian and Pacific Islander,1945.2,0
+AK,Black,2642.7,0
+AK,Hispanic,520.3,0
+AK,White,5234.4,0
+AL,American Indian and Alaskan Native,1585.4,0
+AL,Asian and Pacific Islander,5868.9,0
+AL,Black,34818.3,1
+AL,Hispanic,7724.3,0
+AL,White,30424.8,1
+AR,American Indian and Alaskan Native,1812.3,0
+AR,Asian and Pacific Islander,11352,1
+AR,Black,31142.7,1
+AR,Hispanic,4339.5,0
+AR,White,34045.1,1
+AZ,American Indian and Alaskan Native,4639.3,0
+AZ,Asian and Pacific Islander,5539.8,0
+AZ,Black,4735.3,0
+AZ,Hispanic,3728.3,0
+AZ,White,4988.8,0
+CA,American Indian and Alaskan Native,18325,0
+CA,Asian and Pacific Islander,34999.2,1
+CA,Black,21630.5,1
+CA,Hispanic,12514.8,1
+CA,White,19456.8,1
+CO,American Indian and Alaskan Native,7443.3,0
+CO,Asian and Pacific Islander,9486.3,0
+CO,Black,6801.6,0
+CO,Hispanic,12206.9,1
+CO,White,16780.2,1
+CT,American Indian and Alaskan Native,355.4,0
+CT,Asian and Pacific Islander,4252.5,0
+CT,Black,2627.6,0
+CT,Hispanic,1704.6,0
+CT,White,2735.3,0
+DC,American Indian and Alaskan Native,198,0
+DC,Asian and Pacific Islander,740.7,0
+DC,Black,1080,0
+DC,Hispanic,352,0
+DC,White,462.8,0
+DE,Asian and Pacific Islander,1988.4,0
+DE,Black,1553.4,0
+DE,Hispanic,521.3,0
+DE,White,1343,0
+FL,American Indian and Alaskan Native,2896.4,0
+FL,Asian and Pacific Islander,20598.9,1
+FL,Black,24425.4,1
+FL,Hispanic,11092.9,1
+FL,White,22499.6,1
+GA,American Indian and Alaskan Native,460.7,0
+GA,Asian and Pacific Islander,27411.6,1
+GA,Black,67599.4,1
+GA,Hispanic,9050.9,0
+GA,White,61805,1
+HI,Asian and Pacific Islander,4786.2,0
+HI,Black,1117.5,0
+HI,Hispanic,2062.3,0
+HI,White,1718.2,0
+IA,American Indian and Alaskan Native,1235.2,0
+IA,Asian and Pacific Islander,8136.6,0
+IA,Black,12914.5,1
+IA,Hispanic,4352.5,0
+IA,White,33126.8,1
+ID,American Indian and Alaskan Native,5790,0
+ID,Asian and Pacific Islander,4827,0
+ID,Black,997.7,0
+ID,Hispanic,4462.1,0
+ID,White,13368.5,1
+IL,American Indian and Alaskan Native,2240.4,0
+IL,Asian and Pacific Islander,16629,1
+IL,Black,32584.8,1
+IL,Hispanic,8512.9,0
+IL,White,36525.9,1
+IN,American Indian and Alaskan Native,1993.8,0
+IN,Asian and Pacific Islander,8716.5,0
+IN,Black,30282.6,1
+IN,Hispanic,8296.8,0
+IN,White,34728.1,1
+KS,American Indian and Alaskan Native,13727.7,1
+KS,Asian and Pacific Islander,6803.1,0
+KS,Black,13821.6,1
+KS,Hispanic,9692.7,0
+KS,White,34842.2,1
+KY,Asian and Pacific Islander,6404.7,0
+KY,Black,40698.1,1
+KY,Hispanic,2945,0
+KY,White,54453.3,1
+LA,American Indian and Alaskan Native,1395.1,0
+LA,Asian and Pacific Islander,14820,1
+LA,Black,33607,1
+LA,Hispanic,5326.4,0
+LA,White,29552.6,1
+MA,American Indian and Alaskan Native,977.9,0
+MA,Asian and Pacific Islander,5001.6,0
+MA,Black,4185.4,0
+MA,Hispanic,1961.9,0
+MA,White,4265.2,0
+MD,American Indian and Alaskan Native,1415.8,0
+MD,Asian and Pacific Islander,11867.7,1
+MD,Black,9949.1,0
+MD,Hispanic,2727.3,0
+MD,White,9071.4,0
+ME,American Indian and Alaskan Native,1216.9,0
+ME,Black,700.4,0
+ME,White,5160,0
+MI,American Indian and Alaskan Native,27000.1,1
+MI,Asian and Pacific Islander,11888.7,1
+MI,Black,20534.8,1
+MI,Hispanic,12058.9,1
+MI,White,31683.6,1
+MN,American Indian and Alaskan Native,15377.3,1
+MN,Asian and Pacific Islander,11652.3,1
+MN,Black,3599.2,0
+MN,Hispanic,4651.2,0
+MN,White,22532.2,1
+,American Indian and Alaskan Native,4346.6,0
+MO,Asian and Pacific Islander,13278.3,1
+MO,Black,30164.2,1
+MO,Hispanic,4111.4,0
+MO,White,48046.9,1
+MS,American Indian and Alaskan Native,6195.6,0
+MS,Asian and Pacific Islander,6918.3,0
+MS,Black,43485,1
+MS,Hispanic,2158.2,0
+MS,White,37529.3,1
+MT,American Indian and Alaskan Native,15976,1
+MT,Hispanic,1235.2,0
+MT,White,17169.3,1
+NC,American Indian and Alaskan Native,11491.9,1
+NC,Asian and Pacific Islander,22286.4,1
+NC,Black,38397.5,1
+NC,Hispanic,7069.7,0
+NC,White,33903.2,1
+ND,American Indian and Alaskan Native,10213.5,1
+ND,Hispanic,594.8,0
+ND,White,16220.1,1
+NE,American Indian and Alaskan Native,8934.4,0
+NE,Asian and Pacific Islander,2444.4,0
+NE,Black,4128.6,0
+NE,Hispanic,4818.9,0
+NE,White,27977.9,1
+NH,Asian and Pacific Islander,2695.5,0
+NH,Black,1147.5,0
+NH,Hispanic,549.5,0
+NH,White,3207.8,0
+NJ,American Indian and Alaskan Native,360.2,0
+NJ,Asian and Pacific Islander,10814.7,1
+NJ,Black,8487.2,0
+NJ,Hispanic,4492.2,0
+NJ,White,7657.9,0
+NM,American Indian and Alaskan Native,3337.8,0
+NM,Asian and Pacific Islander,4273.5,0
+NM,Black,7526.1,0
+NM,Hispanic,9501.4,0
+NM,White,11134.7,1
+NV,American Indian and Alaskan Native,4841,0
+NV,Asian and Pacific Islander,8682.9,0
+NV,Black,5166.7,0
+NV,Hispanic,3444.9,0
+NV,White,7660.8,0
+NY,American Indian and Alaskan Native,7357.8,0
+NY,Asian and Pacific Islander,24682.8,1
+NY,Black,21608.7,1
+NY,Hispanic,12668.3,1
+NY,White,23089.2,1
+OH,American Indian and Alaskan Native,340.7,0
+OH,Asian and Pacific Islander,19029.9,1
+OH,Black,34384,1
+OH,Hispanic,8491.2,0
+OH,White,33608.5,1
+OK,American Indian and Alaskan Native,28835,1
+OK,Asian and Pacific Islander,14630.1,1
+OK,Black,35241,1
+OK,Hispanic,15027.4,1
+OK,White,36293.8,1
+OR,American Indian and Alaskan Native,8847.8,0
+OR,Asian and Pacific Islander,12075,1
+OR,Black,4955.4,0
+OR,Hispanic,5355.7,0
+OR,White,10021.2,1
+PA,American Indian and Alaskan Native,1476.4,0
+PA,Asian and Pacific Islander,27863.1,1
+PA,Black,23280,1
+PA,Hispanic,8664.1,0
+PA,White,24101.8,1
+RI,American Indian and Alaskan Native,718.5,0
+RI,Asian and Pacific Islander,3597.3,0
+RI,Black,1717.8,0
+RI,Hispanic,977.4,0
+RI,White,1898.6,0
+SC,American Indian and Alaskan Native,3223.2,0
+SC,Asian and Pacific Islander,14848.2,1
+SC,Black,20210.7,1
+SC,Hispanic,7064.9,0
+SC,White,17465.9,1
+SD,American Indian and Alaskan Native,17845.3,1
+SD,Hispanic,190.6,0
+SD,White,19721.6,1
+TN,American Indian and Alaskan Native,1034.1,0
+TN,Asian and Pacific Islander,27002.4,1
+TN,Black,40371.5,1
+TN,Hispanic,5590.8,0
+TN,White,41659,1
+TX,American Indian and Alaskan Native,4060.7,0
+TX,Asian and Pacific Islander,53872.2,1
+TX,Black,81798.5,1
+TX,Hispanic,65929.5,1
+TX,White,97877.9,1
+US,American Indian and Alaskan Native,298.2,0
+US,Asian and Pacific Islander,533.7,0
+US,Black,415.9,0
+US,Hispanic,233.6,0
+US,White,334,0
+UT,American Indian and Alaskan Native,5507.4,0
+UT,Asian and Pacific Islander,9441.3,0
+UT,Black,2747.6,0
+UT,Hispanic,4126.2,0
+UT,White,9153,0
+VA,American Indian and Alaskan Native,456.5,0
+VA,Asian and Pacific Islander,19877.7,1
+VA,Black,47119,1
+VA,Hispanic,8198.1,0
+VA,White,45497,1
+VT,Black,2172.9,0
+VT,Hispanic,105,0
+VT,White,4535.9,0
+WA,American Indian and Alaskan Native,12714.7,1
+WA,Asian and Pacific Islander,14298.6,1
+WA,Black,8185.8,0
+WA,Hispanic,5839.5,0
+WA,White,11599.8,1
+WI,American Indian and Alaskan Native,17418.8,1
+WI,Asian and Pacific Islander,19208.1,1
+WI,Black,11573.4,1
+WI,Hispanic,4861.9,0
+WI,White,22779.5,1
+WV,Asian and Pacific Islander,303,0
+WV,Black,14957.6,1
+WV,Hispanic,434.6,0
+WV,White,21903.5,1
+WY,American Indian and Alaskan Native,7581.9,0
+WY,Asian and Pacific Islander,333.3,0
+WY,Black,732.4,0
+WY,Hispanic,5379.2,0
+WY,White,7489.6,0
