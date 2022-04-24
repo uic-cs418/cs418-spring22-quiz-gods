@@ -6,3 +6,6 @@ Our initial analysis and reflection questions can be found in the clean.ipynb fi
 inside of DFfunctions.py
 
 We have four sets of data, heart and stroke initial data. Our "updated" csv files are our two final cleaned datasets.
+
+
+Link for tuesday presentation slides https://docs.google.com/presentation/d/1gVuovAYE8vSUKuP92Z76aAPEpJJJNTTPVBMOMbBsRFs/edit?usp=sharing
