@@ -43,7 +43,7 @@ def avgDf(df):
     sns.set_theme(style="darkgrid")
     fig = plt.gcf()
     fig.set_size_inches(15, 5)
-    plot = sns.barplot(x='Race', y='Average Number of Deaths', data=avgD, hue = 'Race', palette = "magma")
+    plot = sns.barplot(x='Race', y='Average Number of Deaths', data=avgD, hue = 'Race', palette = "rocket")
     plt.title("Average Numbers of Death per Race")
 
 def removeC(tempDf, NotUsed):
