@@ -28,6 +28,3 @@ def showHeatMap(heartML):
     sns.heatmap(heartML.corr(), annot = True)
     plt.show()
     return heartML
-
-def test:
-    
