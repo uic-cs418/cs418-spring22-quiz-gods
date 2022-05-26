@@ -64,3 +64,8 @@ def getSufficientData(df):
     df = df[df['Gender'] != 'Male']
     newDf = df
     return newDf
+
+def testgithub(x,y):
+    z = x * y
+    w = x * z
+    return z
