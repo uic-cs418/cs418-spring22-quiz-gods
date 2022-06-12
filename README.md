@@ -3,7 +3,9 @@ CS 418 Final Project
 Major components of our project include these files:
 
 ---Final Project Notebook - final.ipynb
+
 ---Stats Test - StatisticalTestingCS418.pdf
+
 ---Stats Test code - StatisticalTestingFinal.R
 
 Legend
